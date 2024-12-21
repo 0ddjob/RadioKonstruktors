@@ -8,4 +8,4 @@
 
  ![Contents](/RadioKonstruktors_Contents.jpg)
 
- ![Details](/RadioKonstruktors_Details.jog)
+ ![Details](/RadioKonstruktors_Details.jpg)
