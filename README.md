@@ -3,6 +3,7 @@
 
  There are 11 variations you can build.<br>
  The manual is in Russian.<br>
+ The PCB measures 124mm x 78mm.<br>
 
  ![Box](/RadioKonstruktors_Box.jpg)
 
