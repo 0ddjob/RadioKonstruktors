@@ -40,3 +40,15 @@ The amplifier is described in section 5.2 of this manual.<br>
 Assembly is performed according to Fig. 8-1, 8-2.<br>
 
 Set the variable resistor slider clockwise until it stops. Each time you press the key lever, you will hear a sound signal in the speaker.<br>
+
+## РВ Project 5.10: Time Relay with Adjustment (Реле Времени С Регулировкой)
+Designed to generate time delays of different durations.<br>
+
+The time relay circuit consists of a rectangular pulse generator (multivibrator) assembled on transistors T2 and T4, a power amplifier assembled on transistors T5-T7, and a timer assembled on transistors T1 and T3. This circuit differs from the Morse key circuit by introducing a timer. In this circuit, it is possible to adjust the switching on of sound vibrations relative to the moment of switching on the power supply. For this purpose, a resistor R1 with a resistance of 300KΩ to 1MΩ can be installed in the circuit.<br>
+
+With a resistor R1 resistance 1MΩ, the delay is approximately 30±6 seconds.
+- R1 = 680KΩ ... 20±5s
+- R1 = 470KΩ ... 12±4s
+- R1 = 300KΩ ... 9±3s
+
+Assembly is carried out according to Fig. 9-1, 9-2.<br>
