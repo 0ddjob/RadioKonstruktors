@@ -3,6 +3,7 @@
 
  There are [11 variations](/Projects/README.md) you can build.<br>
  The manual is in Russian, even though it has a Latvian title!<br>
+ You can use the kit to practise your [(Russian) Morse Code](/MorseCode/README.md).<br>
  The PCB measures 124mm x 78mm.<br>
 
  ![Box](/RadioKonstruktors_Box.jpg)
