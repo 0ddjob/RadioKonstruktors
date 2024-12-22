@@ -8,8 +8,8 @@ On the circuit board, assemble the low-frequency generator and amplifier accordi
 
 After assembly, check the connections of the elements, their ratings according to the circuit diagrams. Turn on the power and hear sound vibrations in the speaker.<br>
 
-## Project 5.1: Amplifier 1
+## Project 5.2: Amplifier 1
 Amplifier 1 is designed to amplify speech and music signals. The amplifier is assembled on three transistors. The first stage on transistor T1 is a preamplifier. The second stage on transistors T2 and T3 is a push-pull output stage.<br>
 
-The amplifier is powered by a 9V "Krona-VC" battery. Assemble the amplifier according to Fig. 1-2, 1-3. Amplifier I can be tested using a low-frequency generator. The amplifier is easy to manufacture and does not require additional adjustment if assembled correctly.<br>
+The amplifier is powered by a 9V "Krona-VC" (Крона-ВЦ) battery. Assemble the amplifier according to Fig. 1-2, 1-3. Amplifier I can be tested using a low-frequency generator. The amplifier is easy to manufacture and does not require additional adjustment if assembled correctly.<br>
 
