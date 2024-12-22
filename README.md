@@ -1,7 +1,7 @@
 # Radio Konstruktors
  Radio construction kit from Latvian SSR circa 1987.
 
- There are 11 variations you can build.<br>
+ There are [11 variations](/Projects/README.md) you can build.<br>
  The manual is in Russian, even though it has a Latvian title!<br>
  The PCB measures 124mm x 78mm.<br>
 
