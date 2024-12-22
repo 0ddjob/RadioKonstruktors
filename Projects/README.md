@@ -28,6 +28,11 @@ An amplitude-modulated signal is fed to the detector input. Diode Д2 passes the
 
 The probe is assembled according to Fig. 3-1, 3-2.<br>
 
+## ГС Project 5.8: "Siren" Signal Generator (Генератор Сигналов «Сирена» Предназ Начен Для Выработки Звукового Сигнала Типа «Сирена»)
+The Siren signal generator consists of a generator (multivibrator) assembled on transistors T1 and T2; an audio frequency generator assembled on transistor T3, and a power amplifier assembled on transistors T4-T7. The multivibrator generates pulses. These pulses enter the R5, C3 chain. As the capacitor C3 charges, the voltage at the base of transistor T3 increases, and, starting from a certain point, it begins to operate at an audio frequency. The second generator generates a voltage that changes in amplitude, which provides the effect of a siren sound.<br>
+
+Assembly is carried out according to Fig. 7-1, 7-2. If installed correctly, the signal generator starts working immediately and does not require additional adjustment.<br>
+
 ## КМ Project 5.9: Morse Key (Ключ Морзе)
 The Morse key diagram is designed for learning Morse code.<br>
 
