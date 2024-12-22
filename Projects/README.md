@@ -28,6 +28,28 @@ An amplitude-modulated signal is fed to the detector input. Diode Д2 passes the
 
 The probe is assembled according to Fig. 3-1, 3-2.<br>
 
+## 1V3 Project 5.5: Direct Amplification Receiver 1-V-3 (Приемник Прямого Усиления)
+Direct amplification receiver 1-V-3 is designed to receive signals from radio stations located near it.<br>
+
+The designation of the direct amplification receiver 1-V-3 means the following: one cascade of a high-frequency amplifier (1), a detector (V) and a low-frequency amplifier (3 - three cascades).<br>
+
+At the input of the receiver, a magnetic antenna is included, which is a ferrite rod on which coils L1 and L2 are placed. Coil L1 together with variable capacitor C2 form an oscillatory circuit, which is tuned to the wave of the received station. Coil 12 serves to match the oscillatory circuit with the input of the high-frequency amplifier on the transistor T1.<br>
+
+The amplified high-frequency signal through the capacitor C4 goes to the input of the detector, consisting of diodes DI, D2, capacitor C6 and variable resistance R5. From resistor R5, which is the volume control, the low-frequency signal goes to the input of the low-frequency amplifier. The signal, amplified in power, goes to the loudspeaker.
+
+The 1-V-3 receiver is assembled according to Fig. 4-1, 4-2. The receiver is easy to manufacture. If installed correctly, the receiver starts working immediately.<br>
+
+It is important to remember that a magnetic antenna has the property of directional reception, and the maximum volume will be when the longitudinal axis of the antenna ferrite rod is located horizontally and directed perpendicularly to the radio station.<br>
+
+If the receiver volume is weak, it is necessary to move the coupling coil L2 close to the antenna coil L1. In case of excitation of the receiver, it is necessary to swap the ends of the coil L2.<br>
+
+It is necessary to remember that the volume and sound quality of the receiver depend on the voltage of the power source, which decreases as the battery discharges. The receiver is powered by "Krona-VC" (Крона-ВЦ) batteries.<br>
+
+## 2V2 Project 5.6: Direct Amplification Receiver 2-V-2 (Приемник Прямого Усиления)
+The 2-V-2 receiver is designed to receive signals from radio stations located at a short distance from it. The 2-V-2 receiver, unlike the 1-V-3 receiver, contains two high-frequency amplification stages and two low-frequency stages. The operating principle of the 2-V-2 receiver is the same as that of the 1-V-3 receiver.<br>
+
+Assembly is carried out according to Fig. 5-1, 5-2.<br>
+
 ## ГС Project 5.8: "Siren" Signal Generator (Генератор Сигналов «Сирена» Предназ Начен Для Выработки Звукового Сигнала Типа «Сирена»)
 The Siren signal generator consists of a generator (multivibrator) assembled on transistors T1 and T2; an audio frequency generator assembled on transistor T3, and a power amplifier assembled on transistors T4-T7. The multivibrator generates pulses. These pulses enter the R5, C3 chain. As the capacitor C3 charges, the voltage at the base of transistor T3 increases, and, starting from a certain point, it begins to operate at an audio frequency. The second generator generates a voltage that changes in amplitude, which provides the effect of a siren sound.<br>
 
