@@ -50,6 +50,19 @@ The 2-V-2 receiver is designed to receive signals from radio stations located at
 
 Assembly is carried out according to Fig. 5-1, 5-2.<br>
 
+## 2V3 Project 5.7: Direct Amplification Receiver 2-V-3 (Приемник Прямого Усиления 2-V-3)
+The 2-V-3 receiver is designed to receive signals from radio transmitting stations located at a considerable distance from it.
+
+The 2-V-3 direct amplification receiver contains two high-frequency amplifier stages and three low-frequency amplifier stages. The operating principle of the 2-V-3 receiver is the same as that of the 2-V-2 and 1-V-3 receivers, but it has a higher sensitivity compared to them, since the high- and low-frequency amplifier stages are built according to a different scheme. This construction of the stages ensures good isolation between the input and output and, consequently, stable operation of the receiver as a whole,
+
+The 2-V-3 receiver can be assembled either on a mounting board according to Fig. 6-1, 6-2, or on a printed circuit board according to Fig. 6-1, 6-3.
+
+Assembly on a circuit board does not seem difficult, since assembly skills have been developed during the assembly of all previous circuits.
+
+Assembly on a printed circuit board requires special attention: it is necessary to install the elements, strictly observing the marking of the element terminals on the printed circuit board and the arrangement of the elements according to Fig. 6-3.
+
+After the assembly is completed, the correct soldering of the elements is carefully checked. After which the "Krona-VC" (Крона-ВЦ) battery is connected. If the assembly is completed correctly, the receiver starts working immediately.
+
 ## ГС Project 5.8: "Siren" Signal Generator (Генератор Сигналов «Сирена» Предназ Начен Для Выработки Звукового Сигнала Типа «Сирена»)
 The Siren signal generator consists of a generator (multivibrator) assembled on transistors T1 and T2; an audio frequency generator assembled on transistor T3, and a power amplifier assembled on transistors T4-T7. The multivibrator generates pulses. These pulses enter the R5, C3 chain. As the capacitor C3 charges, the voltage at the base of transistor T3 increases, and, starting from a certain point, it begins to operate at an audio frequency. The second generator generates a voltage that changes in amplitude, which provides the effect of a siren sound.<br>
 
